@@ -1,6 +1,6 @@
 def main():
     r = open(u'file/comp2.txt', 'w')
-    l = open(u'file/comp1.txt', 'r+').read().split()
+    l = open(u'file/comp1.txt', 'r').read().split()
     min=len(l[0])
     max=len(l[0])
     min_i=0
