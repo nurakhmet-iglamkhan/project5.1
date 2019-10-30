@@ -1,0 +1,2 @@
+max:	pokryvayetsya
+min:	vso
